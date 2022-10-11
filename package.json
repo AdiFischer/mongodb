@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/AdiFischer/mongodb/issues"
   },
-  "homepage": "https://github.com/AdiFischer/mongodb#readme"
+  "homepage": "https://github.com/AdiFischer/mongodb#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
 }
